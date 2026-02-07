@@ -1,0 +1,12 @@
+num1=input("enter 1st number:")
+num2=input("enter 2nd number:")
+num1=int(num1)
+num2=int(num2)
+sum_result=num1+num2
+print("sum is:",sum_result)
+num1=float(input("enter first num:"))
+num2=float(input("enter 2nd num:"))
+print("addition:",num1+num2)
+print("subtraction:",num1-num2)
+print("multiplication:",num1*num2)
+print("division:",num1/num2)
