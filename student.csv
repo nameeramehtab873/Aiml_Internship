@@ -1,0 +1,4 @@
+name,grade,status
+alice,A,pass
+bob,B,pass
+charlie,C,fail
