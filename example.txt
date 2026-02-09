@@ -1,0 +1,2 @@
+welcome to AIMl internship 2026
+python file handling
